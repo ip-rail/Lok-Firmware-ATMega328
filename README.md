@@ -52,11 +52,11 @@ Beta-Version:
 <tr>
 <td> 4</td>
 <td> PD2 </td>
-<td> t.b.d. </td>
+<td> INT0 ext. </td>
 <td> TLE Sens 1 </td></tr>
 <tr>
 <td> 5</td>
 <td> PD3 </td>
-<td> t.b.d. </td>
+<td> INT1 ext. </td>
 <td> TLE Sens 2 </td></tr>
 </table>
