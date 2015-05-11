@@ -13,4 +13,3 @@ Motor Regelung
 Spannungs Überwachung
 
 Pin-Belegung kommt noch
-
