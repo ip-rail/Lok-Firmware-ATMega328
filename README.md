@@ -46,9 +46,9 @@ Beta-Version:
 </td></tr>
 <tr>
 <td> PD2 </td>
-<td> Strom Versorgung 3,3 Volt, separate Versorgung empfohlen
+<td> TLE Sens 1
 </td></tr>
 <tr>
 <td> PD3 </td>
-<td> Rot = Energiestatus, konstant bei Stromversorgung; Blau = Modulstatus, blinkt einmal wenn das Modul bootet
+<td> TLE Sens 2
 </td></tr></table>
