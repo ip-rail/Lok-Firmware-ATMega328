@@ -165,7 +165,7 @@ Beta-Version:
 <tr>
 <td> 27</td>
 <td> 5V </td>
-<td> 5V </td>
+<td> 5V reguliert </td>
 <td> externes 5V Netzteil  </td></tr>
 <tr>
 <td> 28</td>
@@ -180,6 +180,6 @@ Beta-Version:
 <tr>
 <td> 30</td>
 <td> VIN </td>
-<td> VIN </td>
+<td> 7-12 Volt variabel</td>
 <td> externes 6-20V Netzteil  </td></tr>
 </table>
