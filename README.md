@@ -108,8 +108,13 @@ Beta-Version:
 
 <table class="wikitable sortable2">
 <tr>
-<td> 5</td>
+<td> 16</td>
 <td> PB5 </td>
-<td> INT1 ext. </td>
-<td> TLE Sens 2 </td></tr>
+<td> digital </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 17</td>
+<td> 3V3 </td>
+<td> 3,3 Volt Ausgang </td>
+<td> reserviert </td></tr>
 </table>
