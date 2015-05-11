@@ -83,7 +83,7 @@ Beta-Version:
 <td> 11</td>
 <td> PB0 </td>
 <td> digital </td>
-<td> TMotor 2 Richtung  </td></tr>
+<td> Motor 2 Richtung  </td></tr>
 <tr>
 <td> 12</td>
 <td> PB1 </td>
@@ -136,22 +136,22 @@ Beta-Version:
 <td> 21</td>
 <td> PC2 </td>
 <td> analog </td>
-<td> reserviert </td></tr>
+<td> ACS712-20A </td></tr>
 <tr>
 <td> 22</td>
 <td> PC3 </td>
 <td> analog </td>
-<td> reserviert </td></tr>
+<td> LM35 </td></tr>
 <tr>
 <td> 23</td>
 <td> PC4 </td>
-<td> analog </td>
-<td> reserviert </td></tr>
+<td> SDA </td>
+<td> i2c </td></tr>
 <tr>
 <td> 24</td>
 <td> PC5 </td>
-<td> analog </td>
-<td> reserviert </td></tr>
+<td> SCL </td>
+<td> i2c </td></tr>
 <tr>
 <td> 25</td>
 <td> ADC6 </td>
@@ -170,13 +170,13 @@ Beta-Version:
 <tr>
 <td> 28</td>
 <td> PC8 </td>
-<td> analog </td>
-<td> reserviert </td></tr>
+<td> Reset </td>
+<td> Taster </td></tr>
 <tr>
 <td> 29</td>
 <td> GND </td>
 <td> GND Masse </td>
-<td> reserviert </td></tr>
+<td> GND Masse </td></tr>
 <tr>
 <td> 30</td>
 <td> VIN </td>
