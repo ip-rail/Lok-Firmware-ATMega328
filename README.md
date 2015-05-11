@@ -62,38 +62,38 @@ Beta-Version:
 <tr>
 <td> 7</td>
 <td> PD4 </td>
-<td> INT1 ext. </td>
-<td> TLE Sens 2 </td></tr>
+<td> digital </td>
+<td> HC-SR04 </td></tr>
 <tr>
 <td> 8</td>
 <td> PD5 </td>
-<td> INT1 ext. </td>
-<td> TLE Sens 2 </td></tr>
+<td> digital </td>
+<td> HC-SR04 </td></tr>
 <tr>
 <td> 9</td>
 <td> PD6 </td>
-<td> INT1 ext. </td>
-<td> TLE Sens 2 </td></tr>
+<td> pwm </td>
+<td> Servo PWM </td></tr>
 <tr>
 <td> 10</td>
 <td> PD7 </td>
-<td> INT1 ext. </td>
-<td> TLE Sens 2 </td></tr>
+<td> digital </td>
+<td> Motor 1 Richtung </td></tr>
 <tr>
 <td> 11</td>
 <td> PB0 </td>
-<td> INT1 ext. </td>
-<td> TLE Sens 2 </td></tr>
+<td> digital </td>
+<td> TMotor 2 Richtung  </td></tr>
 <tr>
 <td> 12</td>
 <td> PB1 </td>
-<td> INT1 ext. </td>
-<td> TLE Sens 2 </td></tr>
+<td> pwm </td>
+<td> M1 PWM </td></tr>
 <tr>
 <td> 13</td>
 <td> PB2 </td>
-<td> INT1 ext. </td>
-<td> TLE Sens 2 </td></tr>
+<td> pwm ext. </td>
+<td> M2 PWM </td></tr>
 <tr>
 <td> 14</td>
 <td> PB3 </td>
