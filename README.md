@@ -108,6 +108,11 @@ Beta-Version:
 
 <table class="wikitable sortable2">
 <tr>
+<th> No </th>
+<th> AVR Pin </th>
+<th> Beschreibung </th>
+<th> Anschluss an </th></tr>
+<tr>
 <td> 16</td>
 <td> PB5 </td>
 <td> digital </td>
