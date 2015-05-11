@@ -1,6 +1,6 @@
 # Lok-Firmware-ATMega328
 
-Firmware for ATMega328p loco controller with serial WIFI module (Wiz610wi/Raspberry Pi/..) to control G-scale train engines
+Firmware for ATMega328p loco controller with serial WIFI module (ESP8266/Raspberry Pi/..) to control G-scale train engines
 
 ## Funktionalität
 
@@ -10,7 +10,7 @@ Firmware for ATMega328p loco controller with serial WIFI module (Wiz610wi/Raspbe
 - [ ] Servo Ansteuerung
 - [ ] Motor Regelung
 
-Erweiterte Funktionalitäten
+### Erweiterte Funktionalitäten
 - [ ] Hall Sensor zur Motor Regelung
 - [ ] Spannungs Überwachung
 - [ ] Temperatur Überwachung
