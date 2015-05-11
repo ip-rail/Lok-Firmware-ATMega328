@@ -25,30 +25,30 @@ Beta-Version:
 <table class="wikitable sortable">
 
 <tr>
-<th> AVR Pin </th>
-<th> No </th></tr>
+<th> No </th>
+<th> AVR Pin </th></tr>
 <th> Beschreibung </th></tr></tr>
 <tr>
-<td> PD0</td>
-<td> UART TXD: Anbindung an ESP8266 RXD
-</td></tr>
+<td> 1</td>
+<th> PD0</th></tr>
+<td> UART TXD: Anbindung an ESP8266 RXD </th></tr></tr>
 <tr>
 <td> PD1</td>
 <td> UART RXD: Anbindung an ESP8266 TXD
-</td></tr>
+</th></tr></tr>
 <tr>
 <td> PC8</td>
 <td> Reset
-</td></tr>
+</th></tr></tr>
 <tr>
 <td> GND  </td>
 <td> GND Masse
-</td></tr>
+</th></tr></tr>
 <tr>
 <td> PD2 </td>
 <td> TLE Sens 1
-</td></tr>
+</th></tr></tr>
 <tr>
 <td> PD3 </td>
 <td> TLE Sens 2
-</td></tr></table>
+</th></tr></tr></table>
