@@ -26,29 +26,28 @@ Beta-Version:
 
 <tr>
 <th> No </th>
-<th> AVR Pin </th></tr>
-<th> Beschreibung </th></tr></tr>
+<th> AVR Pin </th>
+<th> Beschreibung </th></tr>
 <tr>
 <td> 1</td>
-<th> PD0</th></tr>
-<td> UART TXD: Anbindung an ESP8266 RXD </th></tr></tr>
+<td>  PD0</td>
+<td> UART TXD: Anbindung an ESP8266 RXD </td></tr>
 <tr>
 <td> PD1</td>
-<td> UART RXD: Anbindung an ESP8266 TXD
-</th></tr></tr>
+<td> UART RXD: Anbindung an ESP8266 TXD </td></tr>
 <tr>
 <td> PC8</td>
 <td> Reset
-</th></tr></tr>
+</td></tr>
 <tr>
 <td> GND  </td>
 <td> GND Masse
-</th></tr></tr>
+</td></tr>
 <tr>
 <td> PD2 </td>
 <td> TLE Sens 1
-</th></tr></tr>
+</td></tr>
 <tr>
 <td> PD3 </td>
 <td> TLE Sens 2
-</th></tr></tr></table>
+</td></tr></table>
