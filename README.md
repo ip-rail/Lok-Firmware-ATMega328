@@ -4,13 +4,13 @@ Firmware for ATMega328p loco controller with serial WIFI module (Wiz610wi/Raspbe
 
 Funktionalität
 
-    Ansteuerung H-Brücke PHB01
-    Kommunikation über serielles WLAN Modul
-    i2c (Ansteuerung Ledcontroller PCA9622 Adapterboard PLED01)
-    Servo Ansteuerung
-    Motor Regelung
+Ansteuerung H-Brücke PHB01
+Kommunikation über serielles WLAN Modul
+i2c (Ansteuerung Ledcontroller PCA9622 Adapterboard PLED01)
+Servo Ansteuerung
+Motor Regelung
 
-    Spannungs Überwachung
+Spannungs Überwachung
 
-    Pin-Belegung kommt noch
+Pin-Belegung kommt noch
 
