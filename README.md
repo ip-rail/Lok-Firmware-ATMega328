@@ -2,14 +2,15 @@
 
 Firmware for ATMega328p loco controller with serial WIFI module (Wiz610wi/Raspberry Pi/..) to control G-scale train engines
 
-Funktionalität
+## Funktionalität
 
-Ansteuerung H-Brücke PHB01
-Kommunikation über serielles WLAN Modul
-i2c (Ansteuerung Ledcontroller PCA9622 Adapterboard PLED01)
-Servo Ansteuerung
-Motor Regelung
+- [x] Ansteuerung H-Brücke PHB01
+- [x] Kommunikation über serielles WLAN Modul
+- [ ] i2c (Ansteuerung Ledcontroller PCA9622 Adapterboard PLED01)
+- [ ] Servo Ansteuerung
+- [ ] Motor Regelung
+- [ ] Spannungs Überwachung
 
-Spannungs Überwachung
+## Pin-Belegung 
 
-Pin-Belegung kommt noch
+kommt noch
