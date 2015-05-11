@@ -117,4 +117,69 @@ Beta-Version:
 <td> 3V3 </td>
 <td> 3,3 Volt Ausgang </td>
 <td> reserviert </td></tr>
+<tr>
+<td> 18</td>
+<td> AREF </td>
+<td> externe Volt Referenz </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 19</td>
+<td> PC0 </td>
+<td> analog </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 20</td>
+<td> PC1</td>
+<td> analog </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 21</td>
+<td> PC2 </td>
+<td> analog </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 22</td>
+<td> PC3 </td>
+<td> analog </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 23</td>
+<td> PC4 </td>
+<td> analog </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 24</td>
+<td> PC5 </td>
+<td> analog </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 25</td>
+<td> ADC6 </td>
+<td> analog </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 26</td>
+<td> ADC7 </td>
+<td> analog </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 27</td>
+<td> 5V </td>
+<td> 5V </td>
+<td> externes 5V Netzteil  </td></tr>
+<tr>
+<td> 28</td>
+<td> PC8 </td>
+<td> analog </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 29</td>
+<td> GND </td>
+<td> GND Masse </td>
+<td> reserviert </td></tr>
+<tr>
+<td> 30</td>
+<td> VIN </td>
+<td> VIN </td>
+<td> externes 6-20V Netzteil  </td></tr>
 </table>
