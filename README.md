@@ -21,4 +21,34 @@ Firmware for ATMega328p loco controller with serial WIFI module (ESP8266/Raspber
 
 ## Pin-Belegung 
 
-kommt noch
+Beta-Version:
+<table class="wikitable sortable">
+
+<tr>
+<th> AVR Pin </th>
+<th> Beschreibung
+</th></tr>
+<tr>
+<td> PD0</td>
+<td> UART TXD: Anbindung an ESP8266 RXD
+</td></tr>
+<tr>
+<td> PD1</td>
+<td> UART RXD: Anbindung an ESP8266 TXD
+</td></tr>
+<tr>
+<td> PC8</td>
+<td> Reset
+</td></tr>
+<tr>
+<td> GND  </td>
+<td> GND Masse
+</td></tr>
+<tr>
+<td> PD2 </td>
+<td> Strom Versorgung 3,3 Volt, separate Versorgung empfohlen
+</td></tr>
+<tr>
+<td> PD3 </td>
+<td> Rot = Energiestatus, konstant bei Stromversorgung; Blau = Modulstatus, blinkt einmal wenn das Modul bootet
+</td></tr></table>
