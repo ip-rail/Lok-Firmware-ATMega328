@@ -106,6 +106,7 @@ Beta-Version:
 <td> Optoisolator 6N137 für DCC </td></tr>
 </table>
 
+Fortsetzung gegenüberliegende Seite:
 <table class="wikitable sortable2">
 <tr>
 <th> No </th>
