@@ -92,18 +92,18 @@ Beta-Version:
 <tr>
 <td> 13</td>
 <td> PB2 </td>
-<td> pwm ext. </td>
+<td> pwm </td>
 <td> M2 PWM </td></tr>
 <tr>
 <td> 14</td>
 <td> PB3 </td>
-<td> INT1 ext. </td>
-<td> TLE Sens 2 </td></tr>
+<td> UART RXD </td>
+<td> RFID TTL RDM6300 </td></tr>
 <tr>
 <td> 15</td>
 <td> PB4 </td>
-<td> INT1 ext. </td>
-<td> TLE Sens 2 </td></tr>
+<td> digital </td>
+<td> Optoisolator 6N137 für DCC </td></tr>
 </table>
 
 <table class="wikitable sortable2">
