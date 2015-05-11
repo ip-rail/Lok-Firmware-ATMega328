@@ -26,8 +26,8 @@ Beta-Version:
 
 <tr>
 <th> AVR Pin </th>
-<th> Beschreibung
-</th></tr>
+<th> No </th></tr>
+<th> Beschreibung </th></tr></tr>
 <tr>
 <td> PD0</td>
 <td> UART TXD: Anbindung an ESP8266 RXD
