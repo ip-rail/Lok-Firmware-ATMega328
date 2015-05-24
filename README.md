@@ -19,7 +19,9 @@ Firmware for ATMega328p loco controller with serial WIFI module (ESP8266/Raspber
 - [ ] SUSI Schnittstelle
 - [ ] DCC Empfang
 
-## Pin-Belegung 
+## Pin-Belegung Arduino Nano
+
+![](https://github.com/ip-rail/wiki/blob/master/images/other-modules/arduino-nano-klon-sml.jpg)
 
 Beta-Version:
 <table class="wikitable sortable">
